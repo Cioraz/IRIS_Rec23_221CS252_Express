@@ -42,12 +42,14 @@ ADMIN DASHBOARD
 - The company view shows all the companies visiting the campus for placements.
 - The add new company can be used to upload details regarding a new company visiting the campus for placement season.
 - The add company will take the details and store on mongo database, it also takes the company icon which is latered displayed on the companies tab in the dashboard of student/admin view
+- Ensure the size of icons uploaded on company site to be of same size (preferably 500x130) so that bootstrap can nicely organise it.
 
 <h1>LIST OF PLANNED FEATURES  :</h1>
 
 - To make the UI/UX look more robust and user friendly.
 - To add full authentication using passport for login and registration.
 - To add flash messages and use express sessions to temporarily store user data
+- The multer library can also be used to add the pdf of resumes, which here has only be used to store company images.
 
 <h1>LIST OF BUGS :</h1>
 - User can log on to admin or any other account using the url and without knowing password (can be fixed using passport authentication)
