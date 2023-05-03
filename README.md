@@ -59,7 +59,6 @@ ADMIN DASHBOARD
 <p> Bootstrap Images : https://www.youtube.com/watch?v=PeF9p17K6-U</p>
 <p>  Adding company Icons   https://www.youtube.com/watch?v=7oiJj5FcyTQ&t=1s</p>
 <p>  Installing Nodemon : https://www.youtube.com/watch?v=4N0d8HhU5DE&t=107s</p>
-<p>  Login and registration system : https://www.youtube.com/watch?v=6FOq4cUdH8k</p>
 <p>  Encrypting the password : https://www.npmjs.com/package/bcrypt</p>
 
 
