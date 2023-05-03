@@ -11,6 +11,7 @@
 - npm i bcryptjs ejs express mongoose multer nodemailer
   
 Now type the following on the terminal again
+- mongod ( to connect to mongo shell)
 - mongosh (to go into the mongo shell)
 - use irisWeb;
 - db.createCollection('students');
