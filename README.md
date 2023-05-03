@@ -63,6 +63,3 @@ ADMIN DASHBOARD
 
 <h1>VIDEO:</h1>
 - https://youtu.be/HbaYr53HUho
-<p>VIDEO IS IN THE DRIVE : https://drive.google.com/file/d/1X9EScBp3C1py_mBM4jWvmvLgTQbuR4x6/view?usp=sharing </p>
-<p> EXTRACT THE FOLDER TO VIEW VIDEO </p>
-<p>IT IS IN THE PROJECT STRUCTURE, IT MUST BE EXTRACTED!</p>
